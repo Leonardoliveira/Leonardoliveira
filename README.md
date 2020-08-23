@@ -1,1 +1,22 @@
-![divulgação](https://lh3.googleusercontent.com/0vNJIqdRTyp49dLewx4Kc4k-dziGD8VTqO59x_RidCTELN9Eni5SjJY7mqJyxv7FoupqxUgvvOHKYr3dPmynzjrWlFbzoCfyUfPSXoW1OnLyMkC-wgI=w1280)
+## Hey!
+ **I'm Leonardo Oliveira,
+I'm from Brazil,
+ I study databases,
+ and I plan to work in the future as a data scientist.** 
+
+## Skills
+
+ 
+
+ - Python
+ - SQL
+ - VBA
+ - PowerBi
+ - SSIS
+ - SSAS
+ - Apache Kafka
+ - AWS
+ 
+ ## Contato
+[Perfil no Linkedin](https://www.linkedin.com/in/lb-de-oliveira/)
+[Perfil Pessoal](http://twixar.me/m17n)
