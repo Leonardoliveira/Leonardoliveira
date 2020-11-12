@@ -8,14 +8,8 @@ I'm from Brazil,
 
  
 
- - Python
- - SQL
- - VBA
- - PowerBi
- - SSIS
- - SSAS
- - Apache Kafka
- - AWS
+ - Aprendendo Python
+ - Aprendendo T-SQL
  
  ## Contato
 [Perfil no Linkedin](https://www.linkedin.com/in/lb-de-oliveira/)
