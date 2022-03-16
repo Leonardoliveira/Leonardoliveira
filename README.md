@@ -2,15 +2,20 @@
  **I'm Leonardo Oliveira,
 I'm from Brazil,
  I study databases,
- and I plan to work in the future as a data scientist.** 
+ and I plan to work in the future as a data engineer.** 
 
 ## Skills
 
  
 
- - Aprendendo Python
- - Aprendendo T-SQL
+ - GCP
+ - Google BiqQuery
+ - Pentaho
+ - Power BI
+ - Google Data Studio
+ - Python
+ - SQL
  
  ## Contato
 [Perfil no Linkedin](https://www.linkedin.com/in/lb-de-oliveira/)
-[Perfil Pessoal](http://twixar.me/m17n)
+[Perfil Pessoal](https://www.leonardoliveiradobi.com/)
