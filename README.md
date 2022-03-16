@@ -18,4 +18,6 @@ I'm from Brazil,
  
  ## Contato
 [Perfil no Linkedin](https://www.linkedin.com/in/lb-de-oliveira/)
+
+
 [Perfil Pessoal](https://www.leonardoliveiradobi.com/)
