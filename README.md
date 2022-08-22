@@ -11,6 +11,7 @@ I'm from Brazil,
  - GCP
  - Google BiqQuery
  - Pentaho
+ - Talend
  - Power BI
  - Google Data Studio
  - Python
