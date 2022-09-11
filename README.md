@@ -1,8 +1,7 @@
 ## Hey!
  **I'm Leonardo Oliveira,
 I'm from Brazil,
- I study databases,
- and I plan to work in the future as a data engineer.** 
+I am currently studying SQL, Python and MS Power BI, to specialize in analytics..** 
 
 ## Skills
 
